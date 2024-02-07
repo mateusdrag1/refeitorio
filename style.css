@@ -1,0 +1,15 @@
+body {
+  background-color: #131314;
+}
+
+div.flex {
+  display: flex;
+  outline: 1px solid red;
+}
+
+h1 {
+  flex: 1;
+  display: block;
+  background-color: rgb(61, 19, 19);
+  color: wheat;
+}
